@@ -24,3 +24,9 @@ A command shell input/output. Accepts basic arithimetics, brackets, e, pi, and t
 Forever waits for input. Input accepts any number of mathematical expressions to calculate, separated by `;`. Type "quit" to exit.
 
 *! Will do full list in the future*
+
+# Explaination behind logic
+
+Full explaination can be found [here](https://github.com/EthanKuai/calculator/blob/main/SimpleCompiler_Outline.md).
+
+![Summary](https://github.com/EthanKuai/calculator/blob/main/SimpleCompiler_Outline.png)

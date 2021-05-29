@@ -7,7 +7,7 @@ class SimpleCompiler:
 			' ':'', '{':'(', '}':')', '[':'(', ']':')', '+-':'-', '-+':'-',
 			'\\pi':'3.14159265359', 'e': '2.718281828459'
 		}
-		self.LEGALCHARS = '.0123456789+-*/^()[]\{\}!; e pi'
+		self.LEGALCHARS = '.0123456789+-*/^()[]\{\}; e pi'
 
 	# input a string with statements separated by ';' for multiple results
 	def inn(self, ss: str):
